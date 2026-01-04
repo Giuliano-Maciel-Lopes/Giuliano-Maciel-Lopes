@@ -1,8 +1,9 @@
 # 👋 Olá, sou Giuliano Maciel
 
 ## 🚀 Sobre Mim
-Sou um **Desenvolvedor Full Stack** com experiência em **JavaScript, TypeScript, Node.js, Express, React e Next.js**.  
-Sempre aprendendo e construindo projetos modernos e performáticos.  
+Sou um **Desenvolvedor Full Stack** com foco e experiência em **JavaScript e TypeScript**,  com **React, Next.js e NestJS etc...**.  
+Sempre aprendendo e construindo projetos **modernos, performáticos**, aplicando **DDD, Clean Code e boas práticas de arquitetura**.
+ 
 
 📫 Email: **[giulianomaciellopes@gmail.com](mailto:giulianomaciellopes@gmail.com)**  
 
@@ -10,8 +11,8 @@ Sempre aprendendo e construindo projetos modernos e performáticos.
 
 ## 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giuliano-Maciel-Lopes&show_icons=true&count_private=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliano-Maciel-Lopes&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Giuliano-Maciel-Lopes&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliano-Maciel-Lopes&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
 </p>
 
 ---
