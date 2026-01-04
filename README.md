@@ -11,9 +11,9 @@ Sempre aprendendo e construindo projetos **modernos, performáticos**, aplicando
 
 ## 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giuliano-Maciel-Lopes&show_icons=true&theme=radical&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuliano-Maciel-Lopes&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Giuliano-Maciel-Lopes&theme=radical" height="180"/>
 </p>
+>
 
 ---
 
